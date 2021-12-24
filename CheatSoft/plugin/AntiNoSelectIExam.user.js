@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Антизапрет выделения текста на i-exam
 // @namespace    http://tampermonkey.net/
-// @version      1.7
+// @version      1.8
 // @description  Позволяет выделять текст на сайте i-exam
 // @author       Dunamis4tw
 // @include      https://*.i-exam.ru/*
@@ -16,7 +16,6 @@
 // @updateURL    https://gitcdn.link/repo/Dunamis4tw/Dunamis4tw.github.io/master/CheatSoft/plugin/AntiNoSelectIExam.user.js
 // @updateURL    https://combinatronics.com/Dunamis4tw/Dunamis4tw.github.io/master/CheatSoft/plugin/AntiNoSelectIExam.user.js
 // @updateURL    https://cdn.statically.io/gh/Dunamis4tw/Dunamis4tw.github.io/master/CheatSoft/plugin/AntiNoSelectIExam.user.js
-// @updateURL    http://dunamis4tw.ddns.net:8080/CheatSoft/plugin/AntiNoSelectIExam.user.js
 // ==/UserScript==
 
 (function() {
